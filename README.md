@@ -25,18 +25,18 @@ and it doesn't pre-install load balancer and ingress controller.
 - tags: lightweight, single-package
 
 ### [Typhoon](https://github.com/poseidon/typhoon)
-- maintainer: Poseidon Labs
+- maintainer: Poseidon
 
 ### [vcluster](https://github.com/loft-sh/vcluster)
-- maintainer: Loft Labs
+- maintainer: Loft
 - tags: virtual, multi-cluster, testing, in-namespace
 
 ### [Rancher](https://github.com/rancher/rancher)
-- maintainer: Rancher Labs
+- maintainer: SUSE
 - tags: hybird-cloud
 
 ### [RKE2](https://github.com/rancher/rke2)
-- maintainer: Rancher Labs
+- maintainer: SUSE
 - tags: security, government-compliance
 
 ### [Deckhouse](https://github.com/deckhouse/deckhouse)
@@ -44,11 +44,11 @@ and it doesn't pre-install load balancer and ingress controller.
 - tags: user-friendly, enterprise
 
 ### [KubeCube](https://github.com/kubecube-io/KubeCube)
-- maintainer: KubeCube Authors
+- maintainer: NetEase
 - tags: multi-cluster, user-friendly, enterprise
 
 ### [KubeSphere](https://github.com/kubesphere/kubesphere)
-- maintainer: CNCF
+- maintainer: QingCloud
 - tags: multi-cluster, user-friendly, enterprise
 
 ### [Tanzu Community Edition](https://github.com/vmware-tanzu/community-edition)
